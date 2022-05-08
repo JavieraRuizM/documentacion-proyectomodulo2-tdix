@@ -1,4 +1,4 @@
-# Nombre del Proyecto
+# Extensión en holgura como origen y lienzo de transparencias proyectadas
 
 ![Foto Representativa del Proyecto](https://picsum.photos/400/300?grayscale)
 
