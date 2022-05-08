@@ -1,6 +1,6 @@
 # Extensión en holgura como origen y lienzo de transparencias proyectadas
 
-![Foto Representativa del Proyecto](https://picsum.photos/400/300?grayscale)
+![Foto Representativa del Proyecto](imagenes/conejito.jpeg)
 
 Este repositorio es solamente una plantilla que sirve como base para estructurar una documentación ordernada de un proyecto de Diseño. 
 
