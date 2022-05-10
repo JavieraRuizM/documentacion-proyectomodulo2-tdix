@@ -33,9 +33,15 @@ Para el funcionamiento del tótem se utilizaron
 
 ## Estructura de Carpetas
  
- En las carpetas
+<br>
 
- [Archivos de Fabricación](https://github.com/JavieraRuizM/documentacion-proyectomodulo2-tdix/tree/main/cam)
+[Archivos de Fabricación](https://github.com/JavieraRuizM/documentacion-proyectomodulo2-tdix/tree/main/cam)
 
+En esta carpeta se encuentran los archivos de corte láser, junto con las configuraciones y calibraciones así como máquinas empleadas.
 
+<br>
+
+[Archivos de Arduino](https://github.com/JavieraRuizM/documentacion-proyectomodulo2-tdix/tree/main/ino)
+
+En esta carpeta se incluyen todas las especificaciones de las conexiones de la placa y los códigos para el funcionamiento de los motores. 
 
