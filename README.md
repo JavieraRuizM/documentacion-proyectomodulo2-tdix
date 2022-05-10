@@ -1,7 +1,7 @@
 # Extensión en holgura como origen y lienzo de transparencias proyectadas
-<center>
+
 ![Foto Representativa del Proyecto](imagenes/600px-Maqueta3c2mjltdi.jfif)
-</center>
+
 
 Este es el archivo `README.md` principal del repositorio, pero cada carpeta tiene su propio archivo `README.md` que describe a los archivos o subcarpetas incluidas. 
 
