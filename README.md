@@ -34,5 +34,7 @@ Para el funcionamiento del tótem se utilizaron
  
  En las carpetas
 
+ [Archivos de Fabricación](https://github.com/JavieraRuizM/documentacion-proyectomodulo2-tdix/tree/main/cam)
+
 
 
