@@ -2,7 +2,6 @@
 
 ![Foto Representativa del Proyecto](imagenes/600px-Maqueta3c2mjltdi.jfif)
 
-Este repositorio es solamente una plantilla que sirve como base para estructurar una documentación ordernada de un proyecto de Diseño. 
 
 Este es el archivo `README.md` principal del repositorio, pero cada carpeta tiene su propio archivo `README.md` que describe a los archivos o subcarpetas incluidas. Para escribir en estos archivos debes utilizar [lenguaje markdown](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
@@ -21,8 +20,9 @@ En este repositorio se encuentra la documentación relacionada al proyecto *"Ext
 En la búsqueda de gestos en nuestro entorno, cada una de nosotras observo diferentes acontecimientos y trajo consigo croquis los cuales mostraban lo visto. Mirando el material recopilado pudimos notar que uno de los conceptos que coincidieron en nuestros dibujos fue el de la expansión…este no se mostraba necesariamente de forma explícita, sin embargo, en repetidas ocasiones pudimos ver situaciones en las que se manifestaba esta expansión, tanto en animales, plantas, objetos, luces y sombras.
 El tótem pretende ser una manifestación de esta expansión, desde su nacimiento hasta su desaparición. La apertura, la proyección y flujo de las luces buscan mostrar en acontecer de la expansión en este objeto que será controlado por el observador.
 
+## Tecnologías Utilizadas
+
 ## Galería de Imágenes
 
 ## Estructura de Carpetas
 
-## Tecnologías Utilizadas
