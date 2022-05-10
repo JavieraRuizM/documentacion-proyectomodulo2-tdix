@@ -3,10 +3,6 @@
 ![Foto Representativa del Proyecto](imagenes/600px-Maqueta3c2mjltdi.jfif)
 
 
-Este es el archivo `README.md` principal del repositorio, pero cada carpeta tiene su propio archivo `README.md` que describe a los archivos o subcarpetas incluidas. 
-
-El objetivo general de una documentación es **facilitar la colaboración y replicabilidad** de un proyecto, además de mantener una referencia actualizada y actualiuzable de sus materiales y métodos.
-
 En este repositorio se encuentra la documentación relacionada al proyecto *"Extensión en holgura como origen y lienzo de transparencias proyectadas"*, realizado en el taller de Diseño de Interacción 2022 por Luciana Jorquera, Maite Aranda y Javiera Ruiz. 
 
 ## Descripción general del proyecto
