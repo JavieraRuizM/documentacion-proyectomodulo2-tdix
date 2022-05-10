@@ -14,3 +14,5 @@ En este `README.md` principal debes incorporar:
 - Declarar herramientas y tecnologías utilizadas
 
 El objetivo general de una documentación es **facilitar la colaboración y replicabilidad** de un proyecto, además de mantener una referencia actualizada y actualiuzable de sus materiales y métodos.
+
+En este repositorio se encuentra la documentación relacionada al proyecto del módulo 2 realizado en el taller de Diseño de Interacción 2022 por Luciana Jorquera, Maite Aranda y Javiera Ruiz. 
