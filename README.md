@@ -7,6 +7,7 @@
 </div>
 <br>
 <br>
+
 En este repositorio se encuentra la documentación relacionada al proyecto *"Extensión en holgura como origen y lienzo de transparencias proyectadas"*, realizado en el taller de Diseño de Interacción 2022 por Luciana Jorquera, Maite Aranda y Javiera Ruiz. 
 
 ## Descripción general del proyecto
@@ -31,9 +32,19 @@ Para el funcionamiento del tótem se utilizaron
 
 ## Galería de Imágenes
 
+ <div>
+<p style = 'text-align:center;'>
+<img src="imagenes/pop.jfif" alt="Foto Representativa del proyecto" width="500px">
+</p>
+</div>
+
+ <div>
+<p style = 'text-align:center;'>
+<img src="imagenes/popp.jfif" alt="Foto Representativa del proyecto" width="500px">
+</p>
+</div>
 ## Estructura de Carpetas
  
-
 [Archivos de Fabricación](https://github.com/JavieraRuizM/documentacion-proyectomodulo2-tdix/tree/main/cam)
 
 En esta carpeta se encuentran los archivos de corte láser, junto con las configuraciones y calibraciones así como máquinas empleadas.
