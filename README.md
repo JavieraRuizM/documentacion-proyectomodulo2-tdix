@@ -1,6 +1,6 @@
 # Extensión en holgura como origen y lienzo de transparencias proyectadas
 
-![Foto Representativa del Proyecto](imagenes/conejito.jpeg)
+![Foto Representativa del Proyecto](imagenes/600px-Maqueta3c2mjltdi.jfif)
 
 Este repositorio es solamente una plantilla que sirve como base para estructurar una documentación ordernada de un proyecto de Diseño. 
 
