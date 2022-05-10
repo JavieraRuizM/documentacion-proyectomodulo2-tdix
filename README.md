@@ -1,7 +1,5 @@
 # Extensión en holgura como origen y lienzo de transparencias proyectadas
 
-![Foto Representativa del Proyecto](imagenes/600px-Maqueta3c2mjltdi.jfif)
-
  <div>
 <p style = 'text-align:center;'>
 <img src="imagenes/600px-Maqueta3c2mjltdi.jfif" alt="Foto Representativa del proyecto" width="500px">
