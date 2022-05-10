@@ -15,8 +15,14 @@ En este `README.md` principal debes incorporar:
 
 El objetivo general de una documentación es **facilitar la colaboración y replicabilidad** de un proyecto, además de mantener una referencia actualizada y actualiuzable de sus materiales y métodos.
 
-En este repositorio se encuentra la documentación relacionada al proyecto del módulo 2 realizado en el taller de Diseño de Interacción 2022 por Luciana Jorquera, Maite Aranda y Javiera Ruiz. 
+En este repositorio se encuentra la documentación relacionada al proyecto *"Extensión en holgura como origen y lienzo de transparencias proyectadas"*, realizado en el taller de Diseño de Interacción 2022 por Luciana Jorquera, Maite Aranda y Javiera Ruiz. 
 
-
+## Descripción general del proyecto
 En la búsqueda de gestos en nuestro entorno, cada una de nosotras observo diferentes acontecimientos y trajo consigo croquis los cuales mostraban lo visto. Mirando el material recopilado pudimos notar que uno de los conceptos que coincidieron en nuestros dibujos fue el de la expansión…este no se mostraba necesariamente de forma explícita, sin embargo, en repetidas ocasiones pudimos ver situaciones en las que se manifestaba esta expansión, tanto en animales, plantas, objetos, luces y sombras.
 El tótem pretende ser una manifestación de esta expansión, desde su nacimiento hasta su desaparición. La apertura, la proyección y flujo de las luces buscan mostrar en acontecer de la expansión en este objeto que será controlado por el observador.
+
+## Galería de Imágenes
+
+## Estructura de Carpetas
+
+## Tecnologías Utilizadas
