@@ -5,7 +5,8 @@
 <img src="imagenes/600px-Maqueta3c2mjltdi.jfif" alt="Foto Representativa del proyecto" width="500px">
 </p>
 </div>
-
+<br>
+<br>
 En este repositorio se encuentra la documentación relacionada al proyecto *"Extensión en holgura como origen y lienzo de transparencias proyectadas"*, realizado en el taller de Diseño de Interacción 2022 por Luciana Jorquera, Maite Aranda y Javiera Ruiz. 
 
 ## Descripción general del proyecto
