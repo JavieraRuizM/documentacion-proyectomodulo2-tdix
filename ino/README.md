@@ -5,6 +5,6 @@ En este `README.md` incluir todas las especificaciones de placa e incorporar la 
 
  <div>
 <p style = 'text-align:center;'>
-<img src="ino/cableado-arduino.jpg" alt="cableado arduino" width="800px">
+<img src="cableado-arduino.jpg" alt="cableado arduino" width="800px">
 </p>
 </div>
