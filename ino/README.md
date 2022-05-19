@@ -31,6 +31,6 @@ Se utilizaron 5 inputs (pulsadores) y hay 3 outputs (3 motores y gestos).
 
 ## Códigos
 
-[Código motor stepper Nema 23] (https://javieraruizm.github.io/documentacion-proyectomodulo2-tdix/ino/motor%20stepper%20nema.cpp)
+[Código motor stepper Nema 23](https://javieraruizm.github.io/documentacion-proyectomodulo2-tdix/ino/motor%20stepper%20nema.cpp)
 
-[Código motor stepper Nema 23 y motor stepper 28byj-48] (https://javieraruizm.github.io/documentacion-proyectomodulo2-tdix/ino/motor%20nema_motor%2028byj48.cpp)
+[Código motor stepper Nema 23 y motor stepper 28byj-48](https://javieraruizm.github.io/documentacion-proyectomodulo2-tdix/ino/motor%20nema_motor%2028byj48.cpp)

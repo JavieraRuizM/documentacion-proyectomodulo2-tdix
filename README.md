@@ -54,6 +54,6 @@ En esta carpeta se encuentran los archivos de corte láser, junto con las config
 
 En esta carpeta se incluyen todas las especificaciones de las conexiones de la placa y los códigos para el funcionamiento de los motores. 
 
-[Archivo Fusion 360] (https://javieraruizm.github.io/documentacion-proyectomodulo2-tdix/cad/)
+[Archivo Fusion 360](https://javieraruizm.github.io/documentacion-proyectomodulo2-tdix/cad/)
 
 
