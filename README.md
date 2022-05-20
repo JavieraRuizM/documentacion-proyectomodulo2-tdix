@@ -43,6 +43,7 @@ Para el funcionamiento del tótem se utilizaron
 <img src="imagenes/popp.jfif" alt="Foto Representativa del proyecto" width="500px">
 </p>
 </div>
+
 ## Estructura de Carpetas
  
 [Archivos de Fabricación](https://javieraruizm.github.io/documentacion-proyectomodulo2-tdix/cam/)
