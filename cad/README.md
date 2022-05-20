@@ -12,3 +12,6 @@ Aquí encontrarás el modelo del tótem realizado en el programa fusión 360
 <img src="estructura2.png" alt="Foto Representativa del proyecto" width="500px">
 </p>
 </div>
+
+
+[Archivo Fusión 360](estructuratotem.dxf)
