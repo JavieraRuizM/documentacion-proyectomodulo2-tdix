@@ -1,4 +1,14 @@
 # cad
 
-Modelos o dibujos, por ejemplo archivos Autocad, Inventor, entre otros. 
-Se debe especificar la(s) materialidad(es) y planimetrías de ensamble o proceso constructivo.
+Aquí encontrarás el modelo del tótem realizado en el programa fusión 360
+
+ <div>
+<p style = 'text-align:center;'>
+<img src="estructura1" alt="Foto Representativa del proyecto" width="500px">
+</p>
+</div>
+ <div>
+<p style = 'text-align:center;'>
+<img src="estructura2" alt="Foto Representativa del proyecto" width="500px">
+</p>
+</div>

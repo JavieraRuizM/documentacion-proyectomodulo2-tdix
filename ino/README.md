@@ -31,6 +31,6 @@ Se utilizaron 5 inputs (pulsadores) y hay 3 outputs (3 motores y gestos).
 
 ## Códigos
 
-[Código motor stepper Nema 23](ino/motor_stepper_nema.cpp)
+[Código motor stepper Nema 23](motor_stepper_nema.cpp)
 
-[Código motor stepper Nema 23 y motor stepper 28byj-48](ino/motor_nema_motor_28byj48.cpp)
+[Código motor stepper Nema 23 y motor stepper 28byj-48](motor_nema_motor_28byj48.cpp)
