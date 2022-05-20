@@ -2,7 +2,7 @@
 
  <div>
 <p style = 'text-align:center;'>
-<img src="imagenes/600px-Maqueta3c2mjltdi.jfif" alt="Foto Representativa del proyecto" width="500px">
+<img src="imagenes/totem1.HEIC" alt="Foto Representativa del proyecto" width="500px">
 </p>
 </div>
 <br>
