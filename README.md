@@ -2,7 +2,7 @@
 
  <div>
 <p style = 'text-align:center;'>
-<img src="imagenes/totem1.HEIC" alt="Foto Representativa del proyecto" width="500px">
+<img src="imagenes/totem1.jpg" alt="Foto Representativa del proyecto" width="500px">
 </p>
 </div>
 <br>
