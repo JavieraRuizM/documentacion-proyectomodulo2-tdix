@@ -50,6 +50,9 @@ Para el funcionamiento del tótem se utilizaron
 </p>
 </div>
 
+
+<br>
+
 ## Registro en video
 
 <div>
@@ -59,6 +62,8 @@ src="https://www.youtube.com/embed/GYJYaCNpLs8">
 </iframe>
 </p>
 </div>
+
+
 
 
 
