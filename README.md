@@ -57,8 +57,9 @@ Para el funcionamiento del tótem se utilizaron
 <iframe width="600" height = "420"
 src="https://www.youtube.com/embed/GYJYaCNpLs8">
 </iframe>
-</div>
 </p>
+</div>
+
 
 
 
