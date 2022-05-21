@@ -50,6 +50,17 @@ Para el funcionamiento del tótem se utilizaron
 </p>
 </div>
 
+## Registro en video
+
+<div>
+<p style = 'text-align:center;'>
+<iframe width="600" height = "420"
+src="https://www.youtube.com/embed/GYJYaCNpLs8">
+</iframe>
+</div>
+</p>
+
+
 ## Estructura de Carpetas
  
 [CAM](https://javieraruizm.github.io/documentacion-proyectomodulo2-tdix/cam/)
